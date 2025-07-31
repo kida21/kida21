@@ -4,6 +4,12 @@
 
 <h1 align="center">Hi there, I'm Kidus Paulos! 👋</h1>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kida21&icon=0&color=0" alt="Profile Visit Counter" />
+  </a>
+</p>
+
 <br/>
 
 <h2 align="center">💫 About Me</h2>
@@ -55,7 +61,7 @@
 
 <br/>
 
-<h2 align="center">🐍 Contribution Grid</h2>
+<h2 align="center">📈 My GitHub Contributions</h2>
 
 <p align="center">
 <picture>
@@ -63,14 +69,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
 </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kida21&icon=0&color=0" alt="Profile Visit Counter" />
-  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

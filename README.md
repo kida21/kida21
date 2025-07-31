@@ -1,6 +1,16 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Kidus Paulos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"> </h1>
 
-# 💫 About Me  
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=19&pause=1000&color=FFFFFF&width=275&lines=A+passionate+frontend+developer" alt="Typing SVG" /></a></h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kida21&label=Profile%20views&color=0e75b6&style=flat" alt="kida21" /> </p>
+
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/iK4L8kmsZtQUyNgfrm/giphy.gif" />
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/GtCAl32NO43AqTzNca/giphy.gif" />
+
+---
+
+## 💫 About Me
+
 🔧 **Backend Developer Enthusiast** passionate about crafting efficient, scalable, and secure server-side applications.  
 🌐 Skilled in building microservice-based architectures with a focus on **high availability** and **fault tolerance**.  
 💡 Experienced in creating **RESTful APIs**, integrating with databases, and optimizing performance for production environments.  
@@ -9,7 +19,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Languages & Frameworks  
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
@@ -40,10 +50,20 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kida21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kida21&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kida21&theme=dark&hide_border=false&layout=compact)
 
-</div>
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+</picture>

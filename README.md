@@ -11,7 +11,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-🔧 Backend Developer Enthusiast with a strong passion for designing efficient, maintainable, and secure server-side applications.<br/><br/>
+🔧 Backend Enthusiast with a strong passion for designing efficient, maintainable, and secure server-side applications.<br/><br/>
 🌐 Experienced in building scalable systems using microservice architecture, ensuring high availability and fault tolerance.<br/><br/>
 💡 Skilled in developing RESTful APIs, integrating databases, and optimizing backend performance for production-ready deployments.<br/><br/>
 🚀 Proficient in containerization and orchestration tools like Docker and Kubernetes to streamline service management and scaling.<br/><br/>

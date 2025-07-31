@@ -1,7 +1,7 @@
 <!--
 <div align="center">
 -->
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kida21.kida21" />
 <h1 align="center">Hi there, I'm Kidus Paulos! 👋</h1>
 
 

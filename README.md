@@ -94,4 +94,3 @@ Let's build something amazing together! 💻✨
 
 ---
 
-<sub>✨ Built with ❤️ using Markdown and open-source GitHub stats widgets</sub>

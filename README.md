@@ -69,7 +69,7 @@ My work revolves around **Docker**, **Kubernetes**, and **DevOps pipelines** for
 </picture>
 
 
-Let's build something amazing together! 💻✨
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&locale=en&layout=compact" alt="kidus-github" /></p>
 

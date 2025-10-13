@@ -20,7 +20,7 @@ My work revolves around **Docker**, **Kubernetes**, and **DevOps pipelines** for
 
 ## 🔧 What I’m Working On
 
-- 🚀 Developing microservice-based backends using **Go**, **gRPC**, and **PostgreSQL**  
+- 🚀 Developing microservice-based backends using **Go**, **gRPC**, **RabbitMQ**and **PostgreSQL**  
 - 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability  
 - 💬 Ask me about **Golang**, or **REST/gRPC**, 
 - ⚡ Fun fact: *Backend engineers don’t disappear — they just run in the background.*

@@ -14,14 +14,15 @@
 
 I’m a **Backend Developer** passionate about building efficient, scalable, and secure distributed systems.  
 I love working with **Golang**, **microservice architectures**, and **gRPC** to deliver production-ready APIs.  
-My work revolves around **Docker**, **Kubernetes**, and **DevOps pipelines** for smooth CI/CD and service orchestration.
+
 
 ---
 
 ## 🔧 What I’m Working On
 
 - 🚀 Developing microservice-based backends using **Go**, **gRPC**, **RabbitMQ**and **PostgreSQL**  
-- 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability  
+- 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability
+- 🏫 Currently Learning  **Nest.js** 
 - 💬 Ask me about **Golang**, or **REST/gRPC**, 
 - ⚡ Fun fact: *Backend engineers don’t disappear — they just run in the background.*
 

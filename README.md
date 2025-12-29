@@ -39,20 +39,19 @@ I love working with **Golang**, **microservice architectures**, and **gRPC** to 
 ## ⚒️ Languages • Frameworks • Tools
 
 ![Go](https://skillicons.dev/icons?i=go)
-![gRPC](https://skillicons.dev/icons?i=grpc)
+![Rust](https://skillicons.dev/icons?i=rust)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Consul](https://skillicons.dev/icons?i=consul)
+![Typescript](https://skillicons.dev/icons?i=typescript)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![C#](https://skillicons.dev/icons?i=cs)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+
+
+
+
 
 ---
 

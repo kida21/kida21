@@ -43,11 +43,14 @@ I love working with **Golang**, **microservice architectures**, and **gRPC** to 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Typescript](https://skillicons.dev/icons?i=typescript)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
+
+
 
 
 

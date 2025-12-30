@@ -22,7 +22,7 @@ I love working with **Golang**, **microservice architectures**, and **gRPC** to 
 
 - 🚀 Developing microservice-based backends using **Go**, **gRPC**, **RabbitMQ**and **PostgreSQL**  
 - 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability
-- 🏫 Currently Learning  **Nest.js**, **Rust**
+- 🏫 Currently Learning  **Rust**
 - 💬 Ask me about **Golang**, or **REST/gRPC**, 
 - ⚡ Fun fact: *Backend engineers don’t disappear — they just run in the background.*
 

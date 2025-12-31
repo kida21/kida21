@@ -8,7 +8,7 @@
 
 # 👋 Hi there
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=00ADD8&width=500&lines=Backend+Developer;Microservices+Enthusiast;DevOps+Learner;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=00ADD8&width=500&lines=am+Backend+Developer;Microservices+Enthusiast;DevOps+Learner;" alt="Typing SVG" />
 
 ## 💫 About Me
 

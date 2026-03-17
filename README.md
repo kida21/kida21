@@ -13,14 +13,14 @@
 ## 💫 About Me
 
 I’m a **Backend Developer** passionate about building efficient, scalable, and secure distributed systems.  
-I love working with **Golang**, **microservice architectures**, and **gRPC** to deliver production-ready APIs.  
+love working with **distributed systems**, **microservice architectures** to deliver production-ready APIs.  
 
 
 ---
 
 ## 🔧 What I’m Working On
 
-- 🚀 Developing microservice-based backends using **Go**, **gRPC**, **RabbitMQ**and **PostgreSQL**  
+- 🚀 Developing microservice-based backends using **Go**,  
 - 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability
 - 🏫 Currently Learning  **Rust**
 - 💬 Ask me about **Golang**, or **REST/gRPC**, 

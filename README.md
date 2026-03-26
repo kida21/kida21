@@ -24,7 +24,7 @@ love working with **distributed systems**, **microservice architectures** to del
 - 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability
 - 🏫 Currently Learning  **Rust**
 - 💬 Ask me about **Golang**, or **REST/gRPC**, 
-- ⚡ Fun fact: *Backend engineers don’t disappear — they just run in the background.*
+- ⚡ Fun fact: *Backend engineers don’t disappear,they just run in the background.*
 
 ---
 

@@ -32,7 +32,7 @@ love working with **distributed systems**, **microservice architectures** to del
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kiduspaulos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kida21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=todoist&logoColor=white)](https://kidapaulos.netlify.app)
 
 ---
 

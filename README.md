@@ -48,7 +48,7 @@ love working with **distributed systems**, **microservice architectures** to del
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Typescript](https://skillicons.dev/icons?i=typescript)
 ![Git](https://skillicons.dev/icons?i=git)
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
+
 
 
 

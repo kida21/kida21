@@ -23,7 +23,6 @@ love working with **distributed systems**, **microservice architectures** to del
 - 🚀 Developing microservice-based backends using **Go**,  
 - 🌱 Exploring **Kubernetes**, **Consul**, and **Prometheus** for observability and scalability
 - 🏫 Currently Learning  **Rust**
-- 💬 Ask me about **Golang**, or **REST/gRPC**, 
 - ⚡ Fun fact: *Backend engineers don’t disappear,they just run in the background.*
 
 ---
